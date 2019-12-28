@@ -1,0 +1,3 @@
+com\springsecurity\demo\config\SpringWebApplicationInitializer.class
+com\springsecurity\demo\config\DemoConfig.class
+com\springsecurity\demo\controller\DemoController.class
